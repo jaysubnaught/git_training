@@ -1,1 +1,2 @@
-Bob is a friend to Alice.
+Bob works with Alice.
+Bob and Alice are friendly.
